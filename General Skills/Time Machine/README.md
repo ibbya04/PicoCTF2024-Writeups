@@ -21,7 +21,7 @@ When committing a file with git, a message can (and should) be included.
 
 ## Approach
 
-By typing `wget https://artifacts.picoctf.net/c_titan/76/challenge.zip` within the terminal we can download the challenge.zip file.
+By typing `wget https://artifacts.picoctf.net/c_titan/162/challenge.zip` within the terminal we can download the challenge.zip file.
 
 `unzip challenge.zip` and then `ls` we can see the directory `drop-in`
 
